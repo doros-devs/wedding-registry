@@ -1,7 +1,10 @@
-import React from "react";
+import React, { useContext } from "react";
 import Navbar from "./Navbar";
+import { userAuth } from "../context/authContext";
 
 function Home() {
+
+
   return (
     <>
       <Navbar />
