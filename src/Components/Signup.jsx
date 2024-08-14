@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import Navbar from "./Navbar";
 import { userAuth } from "../context/authContext";
+import SecondNavbar from "./SecondNavbar";
 
 function Signup() {
   const [formData, setFormData] = useState({});
@@ -25,6 +26,7 @@ function Signup() {
   return (
     <>
       <Navbar />
+      <SecondNavbar />
       <h1>This is the Signup page</h1>
       <form>
         <input
