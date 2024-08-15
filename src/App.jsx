@@ -4,21 +4,20 @@ import Login from "./Components/Login";
 import Signup from "./Components/Signup";
 import { Route, Routes } from "react-router-dom";
 import ProtectedRoute from "./Components/ProtectedRoute";
+import Cart from "./Components/Cart";
+import Myregistry from "./Components/Myregistry";
 
 function App() {
   return (
     <>
       <Routes>
-        <Route
-          path="/"
-          element={
-            <ProtectedRoute>
-              <Home />
-            </ProtectedRoute>
-          }
-        />
+        <Route path="/" element={<Home />} />
         <Route path="login" element={<Login />} />
         <Route path="signup" element={<Signup />} />
+        <Route path="cart" element={<Cart />} />
+        <Route path="Myregistry" element={<Myregistry />} />
+        <Route path="/category/:categoryName" element={<CategoryPage />} />
+        <Route path="/product/:productId" element={<ProductDetailPage />} />
       </Routes>
     </>
   );

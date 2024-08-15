@@ -18,7 +18,7 @@ function Navbar() {
         </Link>
 
         <div className="flex items-center">
-          <button onClick={() => logOut()} className=" pr-20 font-bold ">
+          <button onClick={() => logOut()} className=" mr-20 font-bold ">
             LOG OUT
           </button>
         </div>
