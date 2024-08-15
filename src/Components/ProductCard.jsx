@@ -1,13 +1,19 @@
 import React, { useState, useContext } from "react";
 import { RegistryContext } from "../context/RegistryContext";
+import { useCart } from "../context/CartContext";
 import Modal from "./Modal";
 
-function ProductCard({ product }) {
+function ProductCard({ product, hideAddToRegistry = false, hideAddToCart = false }) {
   const { addToRegistry } = useContext(RegistryContext);
+  const { addToCart } = useCart();
   const [showModal, setShowModal] = useState(false);
 
   const handleAddToRegistry = () => {
     addToRegistry(product);
+  };
+
+  const handleAddToCart = () => {
+    addToCart(product);
   };
 
   const handleShowModal = () => {
@@ -33,12 +39,22 @@ function ProductCard({ product }) {
             Price: KSh {product["Regular Price"].toLocaleString()}
           </p>
         </div>
-        <button
-          onClick={handleAddToRegistry}
-          className="mt-4 bg-blue-500 text-white py-2 px-4 rounded"
-        >
-          Add to Registry
-        </button>
+        <div className="flex space-x-4">
+          {!hideAddToRegistry && (
+            <button
+              onClick={handleAddToRegistry}
+              className="mt-4 bg-blue-500 text-white py-2 px-4 rounded"
+            >
+              Add to Registry
+            </button>
+          )}{!hideAddToCart &&(<button
+            onClick={handleAddToCart}
+            className="mt-4 bg-green-500 text-white py-2 px-4 rounded"
+          >
+            Add to Cart
+          </button>)}
+          
+        </div>
       </div>
       {showModal && (
         <Modal onClose={handleCloseModal}>
@@ -53,15 +69,28 @@ function ProductCard({ product }) {
             <p className="text-gray-800 mt-4 font-bold">
               Price: KSh {product["Regular Price"].toLocaleString()}
             </p>
-            <button
-              onClick={() => {
-                handleAddToRegistry();
-                handleCloseModal();
-              }}
-              className="mt-4 bg-blue-500 text-white py-2 px-4 rounded"
-            >
-              Add to Registry
-            </button>
+            <div className="flex space-x-4">
+              {!hideAddToRegistry && (
+                <button
+                  onClick={() => {
+                    handleAddToRegistry();
+                    handleCloseModal();
+                  }}
+                  className="mt-4 bg-blue-500 text-white py-2 px-4 rounded"
+                >
+                  Add to Registry
+                </button>
+              )}
+              <button
+                onClick={() => {
+                  handleAddToCart();
+                  handleCloseModal();
+                }}
+                className="mt-4 bg-green-500 text-white py-2 px-4 rounded"
+              >
+                Add to Cart
+              </button>
+            </div>
           </div>
         </Modal>
       )}
