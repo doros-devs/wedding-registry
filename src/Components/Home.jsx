@@ -8,6 +8,7 @@ function Home() {
   const [products, setProducts] = useState([]);
   const [categories, setCategories] = useState([]);
   const [selectedCategory, setSelectedCategory] = useState(null);
+  const serverUrl = import.meta.env.VITE_DB_JSON_SERVER;
 
   useEffect(() => {
     fetch(`${serverUrl}/products`)
