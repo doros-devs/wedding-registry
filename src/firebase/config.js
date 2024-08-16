@@ -2,8 +2,10 @@
 import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
+const apiKey = import.meta.env.VITE_FIREBASE_API_KEY
+
 const firebaseConfig = {
-  apiKey: "AIzaSyC8-EOSWznssdcLOlM_YoQ3gJIXqnqPt_A",
+  apiKey:apiKey,
   authDomain: "wedding-registry-20e65.firebaseapp.com",
   projectId: "wedding-registry-20e65",
   storageBucket: "wedding-registry-20e65.appspot.com",
