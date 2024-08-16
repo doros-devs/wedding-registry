@@ -121,46 +121,46 @@ function AdminPage() {
       >
         Add New Product
       </button>
-
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mx-4">
-        {products.map((product) => (
-          <div
-            key={product.ID}
-            className="bg-white border rounded-lg shadow-md p-4 flex flex-col md:flex-row"
-          >
-            <div className="md:w-1/4">
-              <img
-                src={product["Image Link"]}
-                alt={product.Name}
-                className="w-full h-48 object-cover rounded-md"
-              />
-            </div>
-            <div className="md:w-3/4 md:pl-4">
-              <h3 className="text-lg font-semibold">{product.Name}</h3>
-              <p className="text-sm text-gray-600">{product.Categories}</p>
-              <p className="text-sm text-gray-600 mt-2">
-                {product.Description}
-              </p>
-              <p className="text-lg font-bold text-gray-800 mt-2">
-                KSh {product["Regular Price"].toLocaleString()}
-              </p>
-              <div className="flex space-x-4 mt-4">
-                <button
-                  onClick={() => handleEditProduct(product)}
-                  className="bg-yellow-500 text-white py-1 px-4 rounded"
-                >
-                  Edit
-                </button>
-                <button
-                  onClick={() => handleDeleteProduct(product.ID)}
-                  className="bg-red-500 text-white py-1 px-4 rounded"
-                >
-                  Delete
-                </button>
-              </div>
-            </div>
-          </div>
-        ))}
+      <div className="overflow-x-auto">
+        <table className="min-w-full bg-white border-collapse">
+          <thead>
+            <tr>
+              <th className="px-4 py-2 border">ID</th>
+              <th className="px-4 py-2 border">Name</th>
+              <th className="px-4 py-2 border">Category</th>
+              <th className="px-4 py-2 border">Description</th>
+              <th className="px-4 py-2 border">Price</th>
+              <th className="px-4 py-2 border">Actions</th>
+            </tr>
+          </thead>
+          <tbody>
+            {products.map((product) => (
+              <tr key={product.ID}>
+                <td className="border px-4 py-2">{product.ID}</td>
+                <td className="border px-4 py-2">{product.Name}</td>
+                <td className="border px-4 py-2">{product.Categories}</td>
+                <td className="border px-4 py-2">{product.Description}</td>
+                <td className="border px-4 py-2">
+                  KSh {product["Regular Price"].toLocaleString()}
+                </td>
+                <td className="border px-4 py-2 flex space-x-4">
+                  <button
+                    onClick={() => handleEditProduct(product)}
+                    className="bg-yellow-500 text-white py-1 px-4 rounded"
+                  >
+                    Edit
+                  </button>
+                  <button
+                    onClick={() => handleDeleteProduct(product.ID)}
+                    className="bg-red-500 text-white py-1 px-4 rounded"
+                  >
+                    Delete
+                  </button>
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
       </div>
 
       <Modal isOpen={isModalOpen} onClose={closeModal}>
@@ -168,7 +168,7 @@ function AdminPage() {
           {isEditing ? "Edit Product" : "Add Product"}
         </h2>
         <form onSubmit={handleAddProduct}>
-          <div className="mb-4 mx-4">
+          <div className="mb-4">
             <label className="block text-gray-700">Name</label>
             <input
               type="text"
@@ -179,7 +179,7 @@ function AdminPage() {
               required
             />
           </div>
-          <div className="mb-4 mx-4">
+          <div className="mb-4">
             <label className="block text-gray-700">Category</label>
             <input
               type="text"
@@ -190,7 +190,7 @@ function AdminPage() {
               required
             />
           </div>
-          <div className="mb-4 mx-4">
+          <div className="mb-4">
             <label className="block text-gray-700">Description</label>
             <textarea
               name="Description"
