@@ -26,34 +26,37 @@ function ProductCard({ product, hideAddToRegistry = false, hideAddToCart = false
 
   return (
     <>
-      <div className="product-card border rounded-lg overflow-hidden shadow-lg p-4 cursor-pointer">
-        <img
-          src={product["Image Link"]}
-          alt={product.Name}
-          className="w-full h-48 object-cover"
-          onClick={handleShowModal}
-        />
-        <div className="product-details mt-4">
-          <h3 className="text-lg font-semibold">{product.Name}</h3>
-          <p className="text-gray-800 mt-4 font-bold">
-            Price: KSh {product["Regular Price"].toLocaleString()}
-          </p>
+      <div className="product-card flex flex-col justify-between overflow-hidden p-4 cursor-pointer h-full">
+        <div onClick={handleShowModal}>
+          <img
+            src={product["Image Link"]}
+            alt={product.Name}
+            className="w-full h-48 object-cover rounded-md"
+          />
+          <div className="product-details mt-4">
+            <h3 className="text-lg font-semibold">{product.Name}</h3>
+            <p className="text-gray-800 mt-4 font-bold">
+              Price: KSh {product["Regular Price"].toLocaleString()}
+            </p>
+          </div>
         </div>
-        <div className="flex space-x-4">
+        <div className="flex space-x-4 mt-4">
           {!hideAddToRegistry && (
             <button
               onClick={handleAddToRegistry}
-              className="mt-4 bg-blue-500 text-white py-2 px-4 rounded"
+              className="bg-blue-500 text-white py-2 px-2 rounded flex-1"
             >
               Add to Registry
             </button>
-          )}{!hideAddToCart &&(<button
-            onClick={handleAddToCart}
-            className="mt-4 bg-green-500 text-white py-2 px-4 rounded"
-          >
-            Add to Cart
-          </button>)}
-          
+          )}
+          {!hideAddToCart && (
+            <button
+              onClick={handleAddToCart}
+              className="bg-green-500 text-white py-2 px-2 rounded flex-1"
+            >
+              Add to Cart
+            </button>
+          )}
         </div>
       </div>
       {showModal && (

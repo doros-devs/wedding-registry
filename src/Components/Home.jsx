@@ -26,10 +26,6 @@ function Home() {
       });
   }, []);
 
-  const filteredProducts = products.filter(
-    (product) => product.Categories === selectedCategory
-  );
-
   return (
     <>
       <Navbar />
@@ -39,7 +35,6 @@ function Home() {
           categories={categories}
           setSelectedCategory={setSelectedCategory}
         />
-        <ProductDetails products={filteredProducts} />
       </div>
     </>
   );

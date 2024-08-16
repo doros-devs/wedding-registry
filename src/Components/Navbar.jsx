@@ -1,7 +1,6 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import { Link, Navigate } from "react-router-dom";
 import { userAuth } from "../context/authContext";
-import { TiShoppingCart } from "react-icons/ti";
 
 function Navbar() {
   const { logOut } = userAuth();
@@ -18,8 +17,8 @@ function Navbar() {
         </Link>
 
         <div className="flex items-center">
-          <button onClick={() => logOut()} className=" mr-20 font-bold ">
-            LOG OUT
+          <button className=" mr-20 font-bold ">
+            <Link to="/login">LOG IN</Link>
           </button>
         </div>
       </div>

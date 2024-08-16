@@ -8,6 +8,7 @@ import Cart from "./Components/Cart";
 import Myregistry from "./Components/Myregistry";
 import CategoryPage from "./Components/CategoryPage";
 import ProductDetailPage from "./Components/ProductDetailPage";
+import AdminCartPage from "./Components/AdminPage";
 
 function App() {
   return (
@@ -20,7 +21,7 @@ function App() {
         <Route path="Myregistry" element={<Myregistry />} />
         <Route path="/category/:categoryName" element={<CategoryPage />} />
         <Route path="/product/:productId" element={<ProductDetailPage />} />
-        
+        <Route path="admin" element={<AdminCartPage />} />
       </Routes>
     </>
   );
