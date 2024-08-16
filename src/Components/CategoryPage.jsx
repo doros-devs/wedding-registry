@@ -8,9 +8,10 @@ function CategoryPage() {
   const { categoryName } = useParams();
   const [products, setProducts] = useState([]);
   const navigate = useNavigate();
+  const serverUrl = import.meta.env.VITE_DB_JSON_SERVER;
 
   useEffect(() => {
-    fetch("http://localhost:8002/products")
+    fetch(`${serverUrl}/products`)
       .then((res) => res.json())
       .then((data) => {
         const filteredProducts = data.filter(

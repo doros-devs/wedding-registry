@@ -10,7 +10,7 @@ function Home() {
   const [selectedCategory, setSelectedCategory] = useState(null);
 
   useEffect(() => {
-    fetch("http://localhost:8002/products")
+    fetch(`${serverUrl}/products`)
       .then((res) => res.json())
       .then((data) => {
         setProducts(data);

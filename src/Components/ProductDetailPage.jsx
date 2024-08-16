@@ -10,7 +10,7 @@ function ProductDetailPage() {
   const { addToRegistry } = useContext(RegistryContext);
 
   useEffect(() => {
-    fetch(`http://localhost:8002/products/${productId}`)
+    fetch(`${serverUrl}/products/${productId}`)
       .then((res) => res.json())
       .then((data) => {
         setProduct(data);
