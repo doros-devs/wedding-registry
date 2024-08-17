@@ -33,8 +33,8 @@ function SecondNavbar() {
             to="/Cart"
             className="text-lg font-semibold text-gray-700 hover:text-doroscolor flex items-center"
           >
-            <TiShoppingCart className="text-2xl text-gray-700 hover:text-doroscolor" />
-            <span>({cartItems.length})</span>
+            <span className="ml-2">Cart({cartItems.length})</span>
+            
           </Link>
         </div>
       </div>
