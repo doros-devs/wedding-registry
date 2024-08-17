@@ -8,9 +8,10 @@ function ProductDetailPage() {
   const { productId } = useParams();
   const [product, setProduct] = useState(null);
   const { addToRegistry } = useContext(RegistryContext);
+  const serverUrl = import.meta.env.VITE_DB_JSON_SERVER;
 
   useEffect(() => {
-    fetch(`http://localhost:8002/products/${productId}`)
+    fetch(`${serverUrl}/products/${productId}`)
       .then((res) => res.json())
       .then((data) => {
         setProduct(data);

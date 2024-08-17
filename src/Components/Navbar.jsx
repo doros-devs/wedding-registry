@@ -1,9 +1,19 @@
 import React from "react";
-import { Link, Navigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { userAuth } from "../context/authContext";
 
 function Navbar() {
-  const { logOut } = userAuth();
+  const { user, logOut } = userAuth();
+  const navigate = useNavigate();
+
+  const handleLogout = async () => {
+    try {
+      await logOut();
+      navigate("/login");
+    } catch (error) {
+      console.log(error.message);
+    }
+  };
 
   return (
     <nav className="bg-black text-white">
@@ -17,9 +27,15 @@ function Navbar() {
         </Link>
 
         <div className="flex items-center">
-          <button className=" mr-20 font-bold ">
-            <Link to="/login">LOG IN</Link>
-          </button>
+          {user ? (
+            <button onClick={handleLogout} className="mr-20 font-bold">
+              LOG OUT
+            </button>
+          ) : (
+            <Link to="/login">
+              <button className="mr-20 font-bold">LOG IN</button>
+            </Link>
+          )}
         </div>
       </div>
     </nav>

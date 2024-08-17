@@ -8,21 +8,19 @@ function Home() {
   const [products, setProducts] = useState([]);
   const [categories, setCategories] = useState([]);
   const [selectedCategory, setSelectedCategory] = useState(null);
+  const serverUrl = import.meta.env.VITE_DB_JSON_SERVER;
 
   useEffect(() => {
-    fetch("http://localhost:8002/products")
+    fetch(`${serverUrl}/products`)
       .then((res) => res.json())
       .then((data) => {
         setProducts(data);
+      });
 
-        const uniqueCategories = [
-          ...new Set(data.map((product) => product.Categories)),
-        ];
-        const upperCasecategory = uniqueCategories.map(
-          (str) => str.charAt(0).toUpperCase() + str.slice(1)
-        );
-        setCategories(upperCasecategory);
-        console.log(uniqueCategories);
+    fetch(`${serverUrl}/categories`)
+      .then((res) => res.json())
+      .then((data) => {
+        setCategories(data);
       });
   }, []);
 

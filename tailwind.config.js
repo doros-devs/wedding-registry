@@ -5,7 +5,11 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        doroscolor: '#6B3730',
+      },
+    },
   },
   plugins: [],
 }

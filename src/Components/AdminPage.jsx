@@ -13,12 +13,21 @@ function AdminPage() {
   });
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [isEditing, setIsEditing] = useState(false);
+  const serverUrl = import.meta.env.VITE_DB_JSON_SERVER;
 
   useEffect(() => {
-    fetch("http://localhost:8002/products")
+    fetch(`${serverUrl}/products`)
       .then((res) => res.json())
       .then((data) => {
-        setProducts(data);
+        const cleanedData = data.map((product) => {
+          const cleanedProduct = {};
+          Object.keys(product).forEach((key) => {
+            const cleanedKey = key.trim();
+            cleanedProduct[cleanedKey] = product[key];
+          });
+          return cleanedProduct;
+        });
+        setProducts(cleanedData);
       });
   }, []);
 
@@ -32,7 +41,7 @@ function AdminPage() {
   const handleAddProduct = (e) => {
     e.preventDefault();
     if (isEditing) {
-      fetch(`http://localhost:8002/products/${currentProduct.ID}`, {
+      fetch(`${serverUrl}/products/${currentProduct.ID}`, {
         method: "PUT",
         headers: {
           "Content-Type": "application/json",
@@ -49,7 +58,7 @@ function AdminPage() {
           closeModal();
         });
     } else {
-      fetch("http://localhost:8002/products", {
+      fetch(`${serverUrl}/products`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -65,7 +74,7 @@ function AdminPage() {
   };
 
   const handleDeleteProduct = (id) => {
-    fetch(`http://localhost:8002/products/${id}`, {
+    fetch(`${serverUrl}/products/${id}`, {
       method: "DELETE",
     }).then(() => {
       setProducts(products.filter((product) => product.ID !== id));
@@ -108,7 +117,7 @@ function AdminPage() {
       <h2 className="text-2xl font-bold mb-4">Admin Panel</h2>
       <button
         onClick={openAddModal}
-        className="bg-blue-500 text-white py-2 px-4 rounded mb-4"
+        className="bg-doroscolor text-white py-2 px-4 rounded mb-4"
       >
         Add New Product
       </button>
@@ -134,13 +143,13 @@ function AdminPage() {
               <td className="border px-4 py-2 flex space-x-4">
                 <button
                   onClick={() => handleEditProduct(product)}
-                  className="bg-yellow-500 text-white py-1 px-4 rounded"
+                  className="bg-doroscolor text-white py-1 px-4 rounded"
                 >
                   Edit
                 </button>
                 <button
                   onClick={() => handleDeleteProduct(product.ID)}
-                  className="bg-red-500 text-white py-1 px-4 rounded"
+                  className="bg-doroscolor text-white py-1 px-4 rounded"
                 >
                   Delete
                 </button>
@@ -211,7 +220,7 @@ function AdminPage() {
           </div>
           <button
             type="submit"
-            className="bg-blue-500 text-white py-2 px-4 rounded"
+            className="bg-doroscolor text-white py-2 px-4 rounded"
           >
             {isEditing ? "Update Product" : "Add Product"}
           </button>
