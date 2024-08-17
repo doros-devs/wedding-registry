@@ -26,14 +26,19 @@ function Navbar() {
           />
         </Link>
 
-        <div className="flex items-center">
+        <div className="flex items-center space-x-4 mr-20">
           {user ? (
-            <button onClick={handleLogout} className="mr-20 font-bold">
-              LOG OUT
-            </button>
+            <>
+              <Link to="/admin">
+                <button className="font-bold">ADMIN</button>
+              </Link>
+              <button onClick={handleLogout} className="font-bold">
+                LOG OUT
+              </button>
+            </>
           ) : (
             <Link to="/login">
-              <button className="mr-20 font-bold">LOG IN</button>
+              <button className="font-bold">LOG IN</button>
             </Link>
           )}
         </div>
