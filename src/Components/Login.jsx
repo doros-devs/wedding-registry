@@ -1,12 +1,12 @@
 import React, { useState } from "react";
-import { Link, Navigate, useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import Navbar from "./Navbar";
 import { userAuth } from "../context/authContext";
 import SecondNavbar from "./SecondNavbar";
 
 function Login() {
   const [formData, setFormData] = useState({});
-  const { login, user, logOut } = userAuth();
+  const { login } = userAuth();
   const navigate = useNavigate();
 
   const handleChange = (e) => {
@@ -26,18 +26,16 @@ function Login() {
   return (
     <>
       <Navbar />
-      <SecondNavbar />
-      <div className="flex justify-center items-center min-h-screen mx-40">
-        <div className="bg-white p-8 rounded-lg shadow-lg flex">
-          <div className="w-1/2 flex items-center justify-center p-4">
+      <div className="flex justify-center items-center min-h-screen px-4">
+        <div className="bg-white p-8 rounded-lg shadow-lg w-full max-w-2xl lg:max-w-4xl flex flex-col lg:flex-row">
+          <div className="w-full lg:w-1/2 flex items-center justify-center mb-6 lg:mb-0">
             <img
               src="/images/imagefor login.jpg"
               alt="image of flowers"
-              className="w-90 h-auto rounded-lg"
+              className="w-full h-auto rounded-lg"
             />
           </div>
-
-          <div className="w-1/2 flex flex-col justify-center">
+          <div className="w-full lg:w-1/2 flex flex-col justify-center ml-4">
             <form className="space-y-4">
               <input
                 type="text"

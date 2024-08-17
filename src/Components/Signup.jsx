@@ -17,7 +17,7 @@ function Signup() {
     e.preventDefault();
     try {
       await signUp(formData.email, formData.password);
-      navigate("/login")
+      navigate("/login");
     } catch (error) {
       console.log(error);
     }
@@ -26,12 +26,11 @@ function Signup() {
   return (
     <>
       <Navbar />
-      <SecondNavbar />
       <div className="flex justify-center items-center min-h-screen mx-40">
         <div className="bg-white p-8 rounded-lg shadow-lg flex">
           <div className="w-1/2 flex items-center justify-center p-4">
             <img
-              src="/images/imagefor login.jpg"
+              src="/images/AK6A4816.jpg"
               alt="image of flowers"
               className="w-90 h-auto rounded-lg"
             />

@@ -10,7 +10,7 @@ function SecondNavbar() {
   return (
     <>
       <div className="flex items-center border-b mt-4">
-        <div className="flex space-x-8 justify-center ml-[600px]">
+        <div className="flex space-x-8 justify-center ml-[600px] mb-2">
           <p
             className={`text-lg font-semibold text-gray-700 hover:text-gray-500 ${
               location.pathname === "/" ? "border-b-4 border-doroscolor" : ""
