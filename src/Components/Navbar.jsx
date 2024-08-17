@@ -30,15 +30,22 @@ function Navbar() {
           {user ? (
             <>
               <Link to="/admin">
-                <button className="font-bold">ADMIN</button>
+                <button className="font-bold hover:text-doroscolor ">
+                  ADMIN
+                </button>
               </Link>
-              <button onClick={handleLogout} className="font-bold">
+              <button
+                onClick={handleLogout}
+                className="font-bold hover:text-doroscolor"
+              >
                 LOG OUT
               </button>
             </>
           ) : (
             <Link to="/login">
-              <button className="font-bold">LOG IN</button>
+              <button className="font-bold hover:text-doroscolor ">
+                LOG IN
+              </button>
             </Link>
           )}
         </div>
