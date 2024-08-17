@@ -20,17 +20,21 @@ function MyRegistry() {
           ) : (
             registryItems.map((product) => (
               <div key={product.ID}>
-                <ProductCard product={product} hideAddToRegistry={true} hideAddToCart={true} />
+                <ProductCard
+                  product={product}
+                  hideAddToRegistry={true}
+                  hideAddToCart={true}
+                />
                 <div className="flex space-x-4">
                   <button
                     onClick={() => removeFromRegistry(product.ID)}
-                    className="mt-2 bg-red-500 text-white py-1 px-4 rounded"
+                    className="mt-2 bg-doroscolor text-white py-1 px-4 rounded"
                   >
                     Remove from Registry
                   </button>
                   <button
                     onClick={() => addToCart(product)}
-                    className="mt-2 bg-green-500 text-white py-1 px-4 rounded"
+                    className="mt-2 bg-doroscolor text-white py-1 px-4 rounded"
                   >
                     Add to Cart
                   </button>

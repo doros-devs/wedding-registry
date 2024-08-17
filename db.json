@@ -6,7 +6,8 @@
       "Name": "Cereal Holder",
       " Description": "10 kg cereal holder with scoop. Available in blue and grey.",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093604/Screenshot-2022-08-24-153225.jpg, https://cdn.doros.wedding/wp-content/uploads/2022/08/08093808/Screenshot-2022-08-25-152858.jpg",
-      "Regular Price": 3150
+      "Regular Price": 3150,
+      "id": "6fb4"
     },
     {
       "ID": 2,
@@ -14,7 +15,8 @@
       "Name": "Bread storage",
       " Description": "Dimensions:30cm diameter, Available in clear, green tint and gold tint",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093609/Screenshot-2022-08-24-153345.jpg",
-      "Regular Price": 4725
+      "Regular Price": 4725,
+      "id": "f9fe"
     },
     {
       "ID": 3,
@@ -22,7 +24,8 @@
       "Name": "3 set breakfast sorage canister",
       " Description": "Storage canister set of 3.  Available in black and white.",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093612/Screenshot-2022-08-24-153417.jpg",
-      "Regular Price": 3150
+      "Regular Price": 3150,
+      "id": "3378"
     },
     {
       "ID": 4,
@@ -30,7 +33,8 @@
       "Name": "Multifunctional storage rack",
       " Description": "\r\nRotating storage rack\r\nMulti layer,removable storage baskets\r\nMaterial: Metal\r\nColour: black\r\nSize: 117x33x31cm",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093617/Screenshot-2022-08-24-153804.jpg",
-      "Regular Price": 3675
+      "Regular Price": 3675,
+      "id": "7125"
     },
     {
       "ID": 5,
@@ -38,7 +42,8 @@
       "Name": "Twin set storage box",
       " Description": "Alloy cereal storage box 5kg",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093625/Screenshot-2022-08-24-154327.jpg",
-      "Regular Price": 3675
+      "Regular Price": 3675,
+      "id": "ba4f"
     },
     {
       "ID": 6,
@@ -46,7 +51,8 @@
       "Name": "Corner Storage Shelf Bathroom / kitchen Organizer ",
       " Description": "Strong and durable the organizer is waterproof and oil proof so it can be used in bathroom and kitchen.\r\n\r\nPunch free Simply rip the back auxiliary and attach it on the wall, they will stick to it firmly. You can finish the installation in 1 second. No screws, no nails, no tools.",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093629/Screenshot-2022-08-24-154717.jpg",
-      "Regular Price": 1540
+      "Regular Price": 1540,
+      "id": "668d"
     },
     {
       "ID": 7,
@@ -54,7 +60,8 @@
       "Name": "Multipurpose storage organizer ",
       " Description": "Comes with strong self adhesive sticker\r\nRust free\r\nColour : Golden\r\nMaterial: 304 stainless steel ",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093633/Screenshot-2022-08-24-154736.jpg",
-      "Regular Price": 2625
+      "Regular Price": 2625,
+      "id": "0cc2"
     },
     {
       "ID": 8,
@@ -62,7 +69,8 @@
       "Name": "Stainless Steel 3 layer dish drainer rack with 3 trays ",
       " Description": "Comes with 3 trays\r\nRust free\r\nStrong and durable\r\nHigh quality ",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093638/Screenshot-2022-08-24-154830.jpg",
-      "Regular Price": 3675
+      "Regular Price": 3675,
+      "id": "28a0"
     },
     {
       "ID": 9,
@@ -70,7 +78,8 @@
       "Name": "High Quality Heavy Duty 2tier Dish Rack with Cutlery Holder",
       " Description": "-Material: Carbon steel metal\r\n-Colour: black\r\n-Has 2 black water draining trays\r\n- Scratch and rust resistance\r\n-Size 56*23*35cm",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093723/Screenshot-2022-08-24-161355.jpg",
-      "Regular Price": 3990
+      "Regular Price": 3990,
+      "id": "51e8"
     },
     {
       "ID": 10,
@@ -79,7 +88,8 @@
       " Description": "PRE PURCHASE ATTENTION - Please do carefully measure the size of your sink before purchase. The height of the faucet should be ≤ 16.5 inches, the length of the sink should be ≤ 40 inches, the height between the cabinet bottom to the countertop should be ≥ 20. 5 inches, the width of the rack is 12.4 inch.",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093822/Screenshot-2022-08-25-154528.jpg",
       "Regular Price": 6600,
-      "__EMPTY": "Bestnine"
+      "__EMPTY": "Bestnine",
+      "id": "1358"
     },
     {
       "ID": 11,
@@ -87,7 +97,8 @@
       "Name": " 3-tier dish rack",
       " Description": "High quality Dish drying Rack Stainless steel material with black polishing that prevents rust                \r\n44cm*27cm*67cm\r\n",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093814/Screenshot-2022-08-25-153432.jpg, https://cdn.doros.wedding/wp-content/uploads/2022/08/08093826/Screenshot-2022-08-25-155301.jpg",
-      "Regular Price": 6825
+      "Regular Price": 6825,
+      "id": "7dc2"
     },
     {
       "ID": 12,
@@ -95,7 +106,8 @@
       "Name": "2- tier dish rack",
       " Description": "2- tier dish rack\r\n44 cm x27cmx44cm\r\n",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093826/Screenshot-2022-08-25-155301.jpg",
-      "Regular Price": 6300
+      "Regular Price": 6300,
+      "id": "1fa0"
     },
     {
       "ID": 13,
@@ -103,7 +115,8 @@
       "Name": "Luxurious Silicon spoon set",
       " Description": "•Safe & non-toxic:Made with food-grade silicone,BPA-free,and won't react with food or beverages.",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093643/Screenshot-2022-08-24-154922.jpg",
-      "Regular Price": 3675
+      "Regular Price": 3675,
+      "id": "884f"
     },
     {
       "ID": 14,
@@ -111,7 +124,8 @@
       "Name": "Nordic style gold flower vase/ candle holder ",
       " Description": "European Metal Candle Holder Gold Modern Decor Candle Stick Candle Holder Glass Vase Decorative Vase Dining Table Decor Gifts",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093647/Screenshot-2022-08-24-154958.jpg",
-      "Regular Price": 4200
+      "Regular Price": 4200,
+      "id": "3e43"
     },
     {
       "ID": 15,
@@ -119,7 +133,8 @@
       "Name": "Bucket Flip Shoe Cabinet",
       " Description": "Modern porch space saving high capacity shoe rack",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093651/Screenshot-2022-08-24-155110.jpg",
-      "Regular Price": 15750
+      "Regular Price": 15750,
+      "id": "7562"
     },
     {
       "ID": 16,
@@ -127,7 +142,8 @@
       "Name": "Modern Coffee Table/ Luxury Double Coffee Table",
       " Description": "Living Room Creative Tea Table\r\nSize 120*60*42 (Big Size)",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093655/Screenshot-2022-08-24-160751.jpg",
-      "Regular Price": 7350
+      "Regular Price": 7350,
+      "id": "7f7e"
     },
     {
       "ID": 17,
@@ -135,7 +151,8 @@
       "Name": "15 pcs Edenberg Granite cookware sets ",
       " Description": "cast cookware set with an elegant design Made from high quality aluminum Free from harmful chemicals",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093659/Screenshot-2022-08-24-161021.jpg",
-      "Regular Price": 17640
+      "Regular Price": 17640,
+      "id": "8f2a"
     },
     {
       "ID": 18,
@@ -143,7 +160,8 @@
       "Name": "Triangle glass Canister",
       " Description": "Keep your spices fresh for longer with this 3-piece glass canister set that stores",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093705/Screenshot-2022-08-24-161103.jpg",
-      "Regular Price": 2940
+      "Regular Price": 2940,
+      "id": "6f39"
     },
     {
       "ID": 19,
@@ -151,7 +169,8 @@
       "Name": "3pc glass Canister",
       " Description": "Keep your spices fresh for longer with this 3-piece glass canister set that stores",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093710/Screenshot-2022-08-24-161137.jpg",
-      "Regular Price": 2940
+      "Regular Price": 2940,
+      "id": "b215"
     },
     {
       "ID": 20,
@@ -159,7 +178,8 @@
       "Name": "6 compartment Rotatable cereals Storage Container",
       " Description": "360° rotatable design, top lid can be removed, convenient to add grains at any time\r\nMaterial: Food Grade PPPressing operation can control the amount of grain, no need to repeatedly open the lid\r\n\r\n Moisture proof and insectproof: The dry food storage tank has good sealing, blocking moisture in the air, to ensure the dry particles, the top of the design of insectproof material box, you can choose to place spices insectproof or desiccant insectproof, to ensure fresh and healthy food.\r\nCapacity: 10kg\r\nSize: 27*27*31cm",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093735/Screenshot-2022-08-24-162045.jpg",
-      "Regular Price": 4725
+      "Regular Price": 4725,
+      "id": "ab41"
     },
     {
       "ID": 21,
@@ -167,7 +187,8 @@
       "Name": "Wall mounted kitchen rack Organizer",
       " Description": "Black in colour\r\nGood quality ",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093731/Screenshot-2022-08-24-161625.jpg",
-      "Regular Price": 3255
+      "Regular Price": 3255,
+      "id": "9989"
     },
     {
       "ID": 22,
@@ -175,7 +196,8 @@
       "Name": "Work station Blue ",
       " Description": "Home use/office/,shop use\r\n\r\nDimensions 110*107*40cm\r\n\r\nColour -white and cream\r\n\r\nMaterial metallic frames+, wooden boards\r\n\r\nVery firm and neat\r\nNeat storage space\r\nseat not included",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093752/Screenshot-2022-08-25-152112.jpg",
-      "Regular Price": 12650
+      "Regular Price": 12650,
+      "id": "2da6"
     },
     {
       "ID": 23,
@@ -183,7 +205,8 @@
       "Name": "Work station Neutral",
       " Description": "Home use/office/,shop use\r\n\r\nDimensions 110*107*40cm\r\n\r\nColour -white and cream\r\n\r\nMaterial metallic frames+, wooden boards\r\n\r\nVery firm and neat\r\nNeat storage space\r\nseat not included",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093747/Screenshot-2022-08-25-151912.jpg",
-      "Regular Price": 12650
+      "Regular Price": 12650,
+      "id": "2f70"
     },
     {
       "ID": 24,
@@ -191,7 +214,8 @@
       "Name": "4 piece rose gold ceramic toiletry set",
       " Description": "Our bathroom soap dispenser set are made of High quality ceramic, elegant shape, durable and easy to clean,Ceramic construction adds durability to bathroom accessories which are strong and durable compared to fragile glass, cream and plastic. With a quality dispensing pump, you won't get frustrated with rust and leaks.",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093818/Screenshot-2022-08-25-153733.jpg",
-      "Regular Price": 3150
+      "Regular Price": 3150,
+      "id": "3d75"
     },
     {
       "ID": 25,
@@ -199,7 +223,8 @@
       "Name": "Size Minimalistic Living/coffee Stool",
       " Description": "Style: Minimalist Design\r\nInstallation Method: Assembly\r\nSize: 60*50cm (Height* Diameter)\r\nColours Available:\r\n\r\nWhite\r\nYellow",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093801/Screenshot-2022-08-25-152224.jpg",
-      "Regular Price": 5040
+      "Regular Price": 5040,
+      "id": "9033"
     },
     {
       "ID": 26,
@@ -207,7 +232,8 @@
       "Name": "Nordic Luxurious Sofa Side/Corner Table.",
       " Description": "▫️Material: wrought iron\r\n▫️Size: 60cm ×40cm × 25\r\n▫️Color: gold",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093719/Screenshot-2022-08-24-161331.jpg",
-      "Regular Price": 4725
+      "Regular Price": 4725,
+      "id": "9153"
     },
     {
       "ID": 27,
@@ -215,7 +241,8 @@
       "Name": "Bread bin",
       " Description": "1 bread box.\r\n3pcs cannisters\r\n[Bread bin size L13xH7xW 9 inches\r\ncannisters diameter 4 inchesx5.5 inches]",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093728/Screenshot-2022-08-24-161433.jpg",
-      "Regular Price": 6825
+      "Regular Price": 6825,
+      "id": "0776"
     },
     {
       "ID": 28,
@@ -223,14 +250,16 @@
       "Name": "Bucket Flip shoe rack",
       " Description": "Modern porch space saving high capacity shoe rack",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093830/Screenshot-2022-08-25-191802.jpg",
-      "Regular Price": 1995
+      "Regular Price": 1995,
+      "id": "ca52"
     },
     {
       "ID": 29,
       "Categories": "Cleaning & Organisation",
       "Name": "Multipurpose trolley \r\n",
       " Description": "Black and white\r\n36x24x85cm",
-      "Regular Price": 7875
+      "Regular Price": 7875,
+      "id": "b7a4"
     },
     {
       "ID": 30,
@@ -238,7 +267,8 @@
       "Name": "5 tier round multi -fuctional storage rack",
       " Description": "Round rotating baskets\r\nHas wheels for Smooth movement",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093847/Screenshot-2022-08-25-193104.jpg",
-      "Regular Price": 9975
+      "Regular Price": 9975,
+      "id": "9e6e"
     },
     {
       "ID": 31,
@@ -246,7 +276,8 @@
       "Name": "5 tier round rectangular multi -fuctional storage rack",
       " Description": "Introducing our versatile and efficient 5-Tier Floor Mobile Rotating Storage Rack, designed to revolutionize your storage solutions.",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093842/Screenshot-2022-08-25-193004.jpg",
-      "Regular Price": 9975
+      "Regular Price": 9975,
+      "id": "4250"
     },
     {
       "ID": 32,
@@ -254,7 +285,8 @@
       "Name": "1-2-3 Compartments laundry basket",
       " Description": "Divided into 3 sections, each of them can hold up to 2 or more standard size loads of laundry.",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093838/Screenshot-2022-08-25-192842.jpg",
-      "Regular Price": 3080
+      "Regular Price": 3080,
+      "id": "9f26"
     },
     {
       "ID": 33,
@@ -262,7 +294,8 @@
       "Name": "6-Tier Brown Bamboo Shoe Rack",
       " Description": "▪︎Size:100*100*25*\r\n▪︎Foldable and portable shoe rack\r\n▪︎Sturdy and durable\r\n▪︎Can be used to organize shoes,books also displaying flowers and plants\r\n▪︎Material :Bamboo\r\n▪︎color: Brown &dark brown",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093834/Screenshot-2022-08-25-192310.jpg",
-      "Regular Price": 8250
+      "Regular Price": 8250,
+      "id": "aff7"
     },
     {
       "ID": 34,
@@ -270,7 +303,8 @@
       "Name": "Nutribullet",
       " Description": "Affordable price Good quality Fast and Easy to use Twice the power & Capacity 2 new Extractor Blade Powerful 900 Watt Motor 12 Piece Set Includes: High Torque Power Base Extractor Balde Milling Blade 1 Tall Cup 2 Short Cups 1 Handled Lip Ring 1 Regular Lip Ring 2 Stay-fresh Researable Lids User Manual",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10095930/Nutri-bullet-1.jpg",
-      "Regular Price": 10200
+      "Regular Price": 10200,
+      "id": "9d39"
     },
     {
       "ID": 35,
@@ -278,7 +312,8 @@
       "Name": "Magic Bullet MB4-1149M 11 Piece Set",
       " Description": "1 tall cup\r\n2 short cup\r\n2 lip rings\r\n1 high torque power base\r\n2 stainless steel blades (cross & flat)\r\n2 stay fresh resealable lids\r\nRecipe book",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10095756/Magic-Bullet-MB4-1149M-11-Piece-Set.jpg",
-      "Regular Price": 9684
+      "Regular Price": 9684,
+      "id": "8b79"
     },
     {
       "ID": 36,
@@ -286,7 +321,8 @@
       "Name": "Magic Bullet MB4-0612 6 Piece Set",
       " Description": "1 tall cup with a comfort lip ring\r\n1 extractor blade\r\nStainless steel blades\r\nDetachable blade\r\nBPA free\r\nDishwasher safe",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10095800/Magic-Bullet-MB4-0612-6-Piece-Se.png",
-      "Regular Price": 7134
+      "Regular Price": 7134,
+      "id": "73bf"
     },
     {
       "ID": 37,
@@ -294,7 +330,8 @@
       "Name": "Food Processor, 7 in 1 Functions, Silver",
       " Description": "Multi Food Processor\r\nCapacity: 1.5L\r\nPower: 500 Watts\r\n2 Speed with Pulse function\r\n7 in 1:\r\nBlender with Stainless Steel Filter\r\nGrinder\r\nMeat Mincer\r\nVegetable Chopper\r\nCitrus Juicer\r\nWhipping attachment\r\nKneading attachment\r\n4 Stainless Steel blades for shredding, slicing, rasping and french fries\r\nUnbreakable BlenderJar\r\nSafety Lock – if jar is not locked, the processor will not start\r\nBlade organizer\r\nNon-slip suction feet for better grip",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10100227/Food-Processor-7-in-1-Functions-Silver.jpg,https://cdn.doros.wedding/wp-content/uploads/2022/08/10100230/Food-Processor-7-in-1-Functions-Silver_1.jpg",
-      "Regular Price": 14784
+      "Regular Price": 14784,
+      "id": "9507"
     },
     {
       "ID": 38,
@@ -302,7 +339,8 @@
       "Name": "Philips Compact Food Processor HR7530_01",
       " Description": "Philips Compact Food Processor\r\nHealthy home-made food, unlimited possibilities\r\nExcellent results even with the toughest ingredients\r\n850 W, 31 functions, 2-in-1 disc, French fries disc, storage box\r\nPowerChop technology for optimal shredding performance\r\nPowerChop technology is a combination of blade shape, cutting angle and inner container that enables optimal performance when chopping soft and hard food. It's also perfect for making purees and mixing cake batter! Fast preparation with a large filling opening for minimal pre-cut.\r\n\r\nQuick and easy assembly of the parts\r\n\r\nAll accessories are dishwasher safe\r\nAll accessories can be easily cleaned in the upper basket of the dishwasher.\r\n\r\nResistant and transparent container for frequent use\r\nA robust 1.5-liter container has a maximum capacity of 1 liter for up to 5 smoothie portions in one go.\r\n\r\nPowerful 850 W motor for effortless processing\r\nOur powerful motor can process a wide variety of ingredients, from bread dough to hard vegetables, coffee beans, cheese or chocolate. It also cuts and shreds very easily.\r\n\r\nAll-in-one: kneading, whisking, chopping, cutting, grinding and juicing\r\nWith more than 31 functions, there are no limits when it comes to preparation: meals, bread, sauces, ground coffee beans, juices and more. Use the high-quality, multifunctional accessories to chop, puree and chop ingredients with the S-blade, or cut and chop the ingredients with the 2-in-1 disc. What do you feel like doing today?\r\n\r\nColor-coded speed and accessory instructions for easy assembly\r\nTo always get perfect results, all you have to do is match the accessory color to the same speed color. Speed level 1 is suitable for whipping cream and eggs as well as for preparing pastries and bread doughs. Speed level 2 is ideal for chopping onions, minced meat, preparing smoothies and more.\r\n\r\nSmaller footprint and bowl for storing all accessories\r\nThe Viva food processor is extremely compact and saves space in the kitchen, but it has all the important kitchen utensils that you can easily stow in the storage box.\r\n\r\nDouble-sided 2-in-1 stainless steel discs: chop and cut\r\nThanks to the ergonomic, double-sided disc, it is easy to cut with one side and shred with the other!\r\n\r\nPrepare up to 5 servings at the same time in the bowl with a capacity of 1.5 l\r\nWith the generous 2.1 l bowl (1.5 l max. Capacity) you can prepare up to 5 servings of cold soup at once.",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10100114/Philips-Compact-Food-Processor-HR7530_01_3.jpg,https://cdn.doros.wedding/wp-content/uploads/2022/08/10100118/Philips-Compact-Food-Processor-HR7530_01.jpg,https://cdn.doros.wedding/wp-content/uploads/2022/08/10100121/Philips-Compact-Food-Processor-HR7530_01_2.jpg",
-      "Regular Price": 37483
+      "Regular Price": 37483,
+      "id": "78e7"
     },
     {
       "ID": 39,
@@ -310,7 +348,8 @@
       "Name": "Redberry RC 113 Food chopper",
       " Description": "YOUR TIME SAVER- No more manual grinding or chopping! The food chopper can grind meat, fruits, vegetables, salads, milkshakes, potatoes, baby food in seconds with just one button press. Everything is so easy!\r\nPEACE OF MIND- Unique overheating protection function so that it will automatically stop working at high temperatures and be fully cooled. The new upgraded low-noise technology creates a quiet environment and enjoys the pleasure of making food\r\n1.8L BPA-FREE GLASS BOWL- 8-cup large capacity meets both daily needs and family gatherings. The glass bowl is thickened for durability and easy to clean. Moreover, it is designed with a non-slip rubber ring at the bottom for stability, seal ring to prevent food splashing, and dual handles for easy transfer\r\nVERY STRONG AND DURABLE- The 300-watt high power motor drives the double-layer detachable stainless steel blades, which can quickly and evenly cut the food. Upgraded and reinforced blades have better durability and sturdiness, and can effectively handle those heavy kitchen tasks for you.\r\nSpecifications\r\nKEY FEATURES\r\nNatural Living. Share with your family and friends to get more cooking inspiration\r\nWHAT’S IN THE BOX\r\nWHAT YOU GET-\r\nElectric food processor\r\nanti-slip mat\r\nwhich glass bowl\r\n4 sharp blades\r\nuser manual",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10101602/redberry-RC113-Food-Chopper.jpg",
-      "Regular Price": 2310
+      "Regular Price": 2310,
+      "id": "bb1f"
     },
     {
       "ID": 40,
@@ -318,7 +357,8 @@
       "Name": "Signature Electric Chopper SG C01",
       " Description": "Electric chopper\r\nsignature (sg-c01)\r\n300w\r\navailable colors ",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10101627/Signature-Electric-chopper-SG-C01.jpg",
-      "Regular Price": 2310
+      "Regular Price": 2310,
+      "id": "d54a"
     },
     {
       "ID": 41,
@@ -326,7 +366,8 @@
       "Name": "Blender 1.5 Litres 2 SPEED- RM583",
       " Description": "•1.5 litre capacity\r\n•500-watt motor\r\n•2 speeds + pulse\r\n•Double locking safety feature",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10101707/BLENDER-1.5-LITRES-2-SPEED-RM583-1.jpg,https://cdn.doros.wedding/wp-content/uploads/2022/08/10101700/BLENDER-1.5-LITRES-2-SPEED-RM583_1-1.jpg",
-      "Regular Price": 4182
+      "Regular Price": 4182,
+      "id": "b862"
     },
     {
       "ID": 42,
@@ -334,7 +375,8 @@
       "Name": "Philips HR2058 Blender + Mill + Chopper - 350W",
       " Description": "Strong 450W motor for fine results\r\nWith motor overheating protection\r\n4 stars stainless steel blade\r\nBreak-resistant plastic jar\r\n1 Speed & pulse for both soft and hard ingredients like ice\r\nComfortable thumb grip handle\r\nIntegrated power cord storage",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10101741/Philips-HR2058-Blender-Mill-Chopper-350W.jpg",
-      "Regular Price": 6793
+      "Regular Price": 6793,
+      "id": "45d5"
     },
     {
       "ID": 43,
@@ -342,7 +384,8 @@
       "Name": "Panasonic MX-EX1511WTZ Blender + 1 Dry Mill - 1.5L",
       " Description": "Wattage - 450W\r\nBlade-Saber-cutter\r\nJug Capacity -1.5L\r\nJug Max Capacity -2.0L\r\nJug Material-Plastic\r\nDetachable blender jug base-Yes\r\nMill Attachment -Dry mill\r\nPlastic made\r\nSpeed Control-2 Speed + 1 Pulse",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10101748/Panasonic-MX-EX1511WTZ-Blender-1-Dry-Mill-1.5L.jpg",
-      "Regular Price": 9378
+      "Regular Price": 9378,
+      "id": "3a13"
     },
     {
       "ID": 44,
@@ -350,7 +393,8 @@
       "Name": "Von VSBT03BLW 1.5L Blender + Mill 500W - White",
       " Description": "Blender 1.5Lt Jar\r\n500 watts Motor\r\nGrinder for milling spices, coffee etc.\r\nOverheat protection\r\nStainless steel blades\r\n2 Speeds + pulse\r\nBlending, Smoothie and Ice Crushing Function\r\nAnti Slip Feet",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/09090337/Von-VSBT03BLW-1.5L-Blender-Mill-500W-White.jpg",
-      "Regular Price": 5298
+      "Regular Price": 5298,
+      "id": "54c7"
     },
     {
       "ID": 45,
@@ -358,7 +402,8 @@
       "Name": "Von VSBT03BLW 1.5L Blender + Mill 500W - Black",
       " Description": "Powerful 400W Motor\r\n1.5 Litres jar\r\nGrinder for milling spices, coffee etc.\r\n2 speeds & pulse\r\nDurable plastic jar\r\nStainless steel blade\r\nSafety lock device",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/09090334/Von-VSBT03BLW-1.5L-Blender-Mill-500W-Black.jpg",
-      "Regular Price": 4992
+      "Regular Price": 4992,
+      "id": "d9ac"
     },
     {
       "ID": 46,
@@ -366,7 +411,8 @@
       "Name": "Panasonic MX-EX1021WTZ Blender + 2 Dry Mill - 1L",
       " Description": "1.35L Jug Capacity\r\nPowerful Motor, 400W\r\nCurved Stainless Steel Blade for Easy Cutting and\r\nPlastic Jug for Easy Handling\r\n2 Mill Attachment for Various Usage\r\nPlastic\r\nSafety Lock System\r\nSpeed Control",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10101958/Panasonic-MX-EX1021WTZ-Blender-2-Dry-Mill-1L.jpg",
-      "Regular Price": 7746
+      "Regular Price": 7746,
+      "id": "a08c"
     },
     {
       "ID": 47,
@@ -374,7 +420,8 @@
       "Name": "Von HB251ZK/VSBT05BLK 3 in 1 Blender + Mill + Chopper 1.5L, 500W - Black",
       " Description": "Blender 1.5L\r\n100% copper motor\r\nGrinder for milling spices, coffee etc.\r\n2 speeds & pulse\r\nIce crushing, juice blending & smoothie function\r\nAnti-slip feet",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10101950/Von-HB251ZK_VSBT05BLK-3-in-1-Blender-Mill-Chopper-1.5L-500W-Black.jpg",
-      "Regular Price": 6012
+      "Regular Price": 6012,
+      "id": "a21a"
     },
     {
       "ID": 48,
@@ -382,7 +429,8 @@
       "Name": "Panasonic MX-MG5421CTZ Blender, 2 Mills, 800W - 2L",
       " Description": "Panasonic Ice Crusher Blender Crushes ice easily with the highly durable stainless steel sawtooth blade\r\nWattage - 800W\r\n2 dry mill attachments for grinding coffee, spices etc.\r\n2L Transparent and hygienic glass jug\r\n2 Speed\r\nDetachable jug base for easy cleaning and scooping out foods\r\nSafety lock prevents the blender from operating if the jug and stand are not correctly set",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10102010/Panasonic-MX-MG5421CTZ-Blender-2-Mills-800W-2L.jpg",
-      "Regular Price": 15294
+      "Regular Price": 15294,
+      "id": "433a"
     },
     {
       "ID": 49,
@@ -390,7 +438,8 @@
       "Name": "NutriBullet NBC-1110A Blender Combo - 1200W",
       " Description": "1200W Motor base\r\n3 speeds and Pulse button\r\n1.8L blender pitcher\r\nNew cup designs\r\nEasy twist extractor blade",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10102207/NutriBullet-NBC-1110A-Blender-Combo-1200W.jpg",
-      "Regular Price": 32634
+      "Regular Price": 32634,
+      "id": "3171"
     },
     {
       "ID": 50,
@@ -398,7 +447,8 @@
       "Name": "Kenwood BLP44.270SS Glass Blender - Mill + Chopper",
       " Description": "Power: 800W\r\nWhole SS housing\r\nKnob with LED light\r\n2 Speeds + Pulse\r\n1.5L glass jar\r\nDetachable parts for easy cleaning\r\nAccessories: Mill and meat chopper",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10102156/Kenwood-BLP44.270SS-Glass-Blender-Mill-Chopper.jpg",
-      "Regular Price": 11724
+      "Regular Price": 11724,
+      "id": "d628"
     },
     {
       "ID": 51,
@@ -406,7 +456,8 @@
       "Name": "3-in-1 Hand  Blender",
       " Description": "3-in-1 blender, 600 Watts 600W\r\nDetachable stainless steel blending blade\r\nAdditional accesories included: whisk, chopper, mixing cup\r\nStainless steel finishing\r\n2 Variable speed settings\r\n220-240V\r\n50-60Hz\r\nFitted with 3 pin square plug",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10102440/3-IN-1-HAND-BLENDER-RM_592-1.jpg",
-      "Regular Price": 5406
+      "Regular Price": 5406,
+      "id": "c7f7"
     },
     {
       "ID": 52,
@@ -414,7 +465,8 @@
       "Name": "Kenwood Hand Mixer",
       " Description": "amazing black soap with Whitening Complex with amazing capabilities to tighten skin pores, clear acne, controls oily skin with a summary of collagens. This soap works to remove blackheads and bleaching and tighten pores and removing acne Tighten Pores Acne control This soap works to remove blackheads and bleaching and tighten pores and removing acne Soap black coal with a summary of collagen.",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10102624/Kenwood-hand-mixer.jpg",
-      "Regular Price": 1007
+      "Regular Price": 1007,
+      "id": "32b9"
     },
     {
       "ID": 53,
@@ -422,7 +474,8 @@
       "Name": " Hand Mixer Von HBM3ZK/VSMH03BLK - 300W",
       " Description": "Hand Mixer\r\nPowerful 300W Motor\r\n5 Speed Control\r\nTurbo function with a safety device\r\nEject Button for easy assembly\r\n2 Pairs Chromed Beaters and dough hooks\r\nWarranty: 12 months",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10102518/Von-HBM3ZK_VSMH03BLK-Hand-Mixer-300W.jpg",
-      "Regular Price": 3598
+      "Regular Price": 3598,
+      "id": "9990"
     },
     {
       "ID": 54,
@@ -430,7 +483,8 @@
       "Name": "Panasonic MK-GH3WTZ Hand Mixer",
       " Description": "Power Consumption-175W\r\nSpeed 5-speed\r\nOperation Rating (Max.) 5 min\r\nPower Cord Length -1.7m\r\nAttachment-Beaters\r\nDough hooks\r\nWarranty: 12 months",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10102722/Panasonic-MK-GH3WTZ-Hand-Mixer.jpg",
-      "Regular Price": 5706
+      "Regular Price": 5706,
+      "id": "adc8"
     },
     {
       "ID": 55,
@@ -438,7 +492,8 @@
       "Name": "Hand Mixer With Stand, Milky White & Sliver\r\nMMHS201WS",
       " Description": "Hand and Stand Mixer – Can work as a stand mixer and a hand mixer\r\nStainless steel Bowl\r\nCapacity: 4L\r\nPower: 500W\r\n5 Speed with turbo function\r\n3 Directional Mixing – for perfect results\r\nStainless Steel Beaters\r\nEject button with safety feature\r\nNon-slip suction feet for better grip\r\nExtra Accessories Included:\r\n\r\nStainless Steel Dough hook\r\nBowl Scrapper\r\nSpatula\r\nWhite and Stainless Steel",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10102740/Hand-Mixer-With-Stand-Milky-White-Sliver.jpg",
-      "Regular Price": 10194
+      "Regular Price": 10194,
+      "id": "067e"
     },
     {
       "ID": 56,
@@ -446,7 +501,8 @@
       "Name": "Breakfast Toaster",
       " Description": "Three in one coffee maker electric oven Home breakfast machine toaster grill pan bread toaster The grinding of good coffee powder into the water for a long time the filter ,a cup of a general\r\n\r\n6-8g ,depending on the preferences of their personal addition and subtraction\r\nThe screen placed the coffee powder into the coffee basket ,light coffee basket ,let the coffee powder evenly spread of asthma\r\n\r\nThere is a glass cup scale ,sheng and the cup of cold water into the tank\r\nPut the glass on the insulation plate\r\nPlug in the power switch ,open the coffee machine ,and confirm whether there is good coffee\r\n\r\ncoffee can not avoid the drop into cup\r\n\r\nAfter more than and 20 seconds ,the machine began ton drip boiling water ,as part of the water is absorbed by coffee powermso after the check of coffee\r\n\r\n5 points of Core Funtions: 5 minutes breakfast, 3 in 1 funtions, seperate funtion, heating, food keep warm\r\n\r\nNotices:\r\nThis product voltage is 220V only , please check your local voltage before purchase.Don't purchase it if your local voltage isn't 220V.",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10103444/Three-in-one-coffee-maker-electric-oven-Home-breakfast-machine-toaster-grill-pan-bread-toaster.jpg",
-      "Regular Price": 5103
+      "Regular Price": 5103,
+      "id": "da53"
     },
     {
       "ID": 57,
@@ -454,7 +510,8 @@
       "Name": "Oven Toaster Full Size Black- RM342",
       " Description": "Features\r\n•32 litre tabletop ovens\r\n•2100 watts\r\n•Temperature control, timer & function dials\r\n•70℃ - 250℃ heat range\r\n•Top and bottom heating elements with convection capability",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10103436/OVEN-TOASTER-FULL-SIZE-BLACK-RM342.jpg, https://cdn.doros.wedding/wp-content/uploads/2022/08/10103432/OVEN-TOASTER-FULL-SIZE-BLACK-RM342_1.jpg, https://cdn.doros.wedding/wp-content/uploads/2022/08/10103440/OVEN-TOASTER-FULL-SIZE-BLACK-RM342_2.jpg",
-      "Regular Price": 13158
+      "Regular Price": 13158,
+      "id": "dbdf"
     },
     {
       "ID": 58,
@@ -462,7 +519,8 @@
       "Name": "Oven Toaster Full Size Black with Convection  - RM/607",
       " Description": "Features\r\nRotisserie\r\nMovable bake rack\r\nCapacity: 90Lts\r\nBottom and top heating elements\r\nStainless steel heating elements",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10103611/OVEN-TOASTER-FULL-SIZE-BLACK-WITH-CONVECTION-RM607.jpg",
-      "Regular Price": 27846
+      "Regular Price": 27846,
+      "id": "f572"
     },
     {
       "ID": 59,
@@ -470,7 +528,8 @@
       "Name": "2 Slice Sandwich Toaster Silver- RM/197",
       " Description": "Features\r\n•800 watts\r\n•2 slices\r\n•Power-on + ready indicator light\r\n•Non-stick griddle for easy cleaning",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08100755/2-SLICE-SANDWICH-TOASTER-SILVER-RM197.jpg,https://cdn.doros.wedding/wp-content/uploads/2022/08/08100606/2-SLICE-SANDWICH-TOASTER-SILVER-RM197_2.jpg",
-      "Regular Price": 3060
+      "Regular Price": 3060,
+      "id": "cad4"
     },
     {
       "ID": 60,
@@ -478,7 +537,8 @@
       "Name": "2 Slice Sandwich Toaster White- RM/479",
       " Description": "Features\r\n230 watts\r\n•2 slices\r\n•Power-on + ready indicator light\r\n•Non-stick griddle for easy cleaning",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08100610/2-SLICE-SANDWICH-TOASTER-WHITE-RM_479.jpg",
-      "Regular Price": 2295
+      "Regular Price": 2295,
+      "id": "b420"
     },
     {
       "ID": 61,
@@ -486,7 +546,8 @@
       "Name": "4 in 1 Sandwich Maker with Nonstick Interchangeable Plates",
       " Description": "QUALITY SANDWICH maker with nonstick interchangeable plates ...\r\nWith this in your kitchen,you can make doughnuts,sandwiches,waffles and grill....all you do is change to your desired plate....",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08100634/4-in-1-SANDWICH-MAKER-WITH-NONSTICK-INTERCHANGEABLE-PLATES.jpg",
-      "Regular Price": 3964
+      "Regular Price": 3964,
+      "id": "cd5b"
     },
     {
       "ID": 62,
@@ -494,7 +555,8 @@
       "Name": "2 Slice Toaster -\r\nMTS2201",
       " Description": "Power: 750W\r\n2 Slice toaster\r\nBread centering function\r\nBrowning control\r\nCancel function\r\nReheat function\r\nDefrost function\r\nHigh lift lever\r\nSlide-out crumb tray\r\nWhite & Black\r\nWarranty: 1 Year",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08100620/2-Slice-Toaster-MTS2201.jpg",
-      "Regular Price": 2544
+      "Regular Price": 2544,
+      "id": "8b30"
     },
     {
       "ID": 63,
@@ -502,7 +564,8 @@
       "Name": "2 Slice Toaster -\r\nMTS2101",
       " Description": "Power: 750W\r\n2 Slice toaster\r\nBread centering function\r\nBrowning control, cancel function\r\nHigh lift lever\r\nSlide-out crumb tray\r\nWhite & grey\r\nWarranty: 1 Year",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08100616/2-Slice-Toaster-MTS2101.jpg",
-      "Regular Price": 2238
+      "Regular Price": 2238,
+      "id": "5e9c"
     },
     {
       "ID": 64,
@@ -510,7 +573,8 @@
       "Name": "2 Slice Toaster -\r\nMTS2304",
       " Description": "Power: 850W\r\n2 Slice toaster\r\nBread centering function\r\nBrowning control\r\nCancel function\r\nReheat function\r\nDefrost function\r\nHigh lift lever\r\nSlide-out crumb tray\r\nBlack\r\nWarranty: 2 Years",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08100613/2-slice-toaster-mika.jpg",
-      "Regular Price": 4074
+      "Regular Price": 4074,
+      "id": "dfdb"
     },
     {
       "ID": 65,
@@ -518,7 +582,8 @@
       "Name": "2 Slice Toaster -\r\nMTS2205",
       " Description": "Power: 730W – 850W\r\n2 Slice toaster\r\nBread centering function\r\nBrowning control\r\nCancel function\r\nReheat function\r\nDefrost function\r\nHigh lift lever\r\nSlide-out crumb tray\r\nBlack\r\nWarranty: 1 Year",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08100623/2-Slice-Toaster-MTS2205.jpg",
-      "Regular Price": 3564
+      "Regular Price": 3564,
+      "id": "f539"
     },
     {
       "ID": 66,
@@ -526,7 +591,8 @@
       "Name": "4 Slice Toaster -\r\nMTS4305",
       " Description": "Power: 1400W – 1600W\r\n4 Slice toaster\r\nBread centering function\r\nBrowning control\r\nCancel function\r\nReheat function\r\nDefrost function\r\nHigh lift lever\r\nSlide-out crumb tray\r\nStainless Steel\r\nWarranty: 2 Years",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10103924/4-Slice-Toaster-MTS4305-1.jpg",
-      "Regular Price": 7134
+      "Regular Price": 7134,
+      "id": "144b"
     },
     {
       "ID": 67,
@@ -534,7 +600,8 @@
       "Name": "Von VSTP04MVK 4 Slice Toaster - Black",
       " Description": "Power: 1400w\r\nLong slot\r\nBrowning control\r\nRemovable crumb tray\r\nDefrost, reheat & cancel buttons\r\nAnti-jam function\r\nElectric control timer\r\nHigh lift bread release\r\nCenter function\r\nIndicator light",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10103928/Von-VSTP04MVK-4-Slice-Toaster-Black.png",
-      "Regular Price": 4788
+      "Regular Price": 4788,
+      "id": "e9b8"
     },
     {
       "ID": 68,
@@ -542,7 +609,8 @@
       "Name": "Von VSTP02MDK 2 Slice Toaster - Black",
       " Description": "Power: 930W\r\nBrowning control (7 settings)\r\nRemovable crumb tray\r\nDefrost, reheat & cancel\r\nControl buttons\r\nAnti-jam function\r\nElectric control timer\r\nHigh lift bread release",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/09090346/Von-VSTP02MDK-2-Slice-Toaster-Black.jpg",
-      "Regular Price": 3564
+      "Regular Price": 3564,
+      "id": "2fda"
     },
     {
       "ID": 69,
@@ -550,7 +618,8 @@
       "Name": "Von VSTP02PVR Premium 2 Slice Toaster",
       " Description": "Electronic browning control (6 settings)\r\nHigh lift & centre function\r\nSlide-out removable crumb tray\r\nDefrost, reheat & cancel control buttons\r\nIndicator light",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/09090349/Von-VSTP02PVR-Premium-2-Slice-Toaster.jpg",
-      "Regular Price": 3564
+      "Regular Price": 3564,
+      "id": "c5a0"
     },
     {
       "ID": 70,
@@ -558,7 +627,8 @@
       "Name": "Panini Maker Sandwich Press Metal Top - RM/307",
       " Description": "850 watts\r\n Non-stick plate\r\n Power-on indicator\r\n Cool-touch handle",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10104214/PANINI-MAKER-SANDWICH-PRESS-METAL-TOP-RM307.jpg, https://cdn.doros.wedding/wp-content/uploads/2022/08/10104207/PANINI-MAKER-SANDWICH-PRESS-METAL-TOP-RM307_3.jpg, https://cdn.doros.wedding/wp-content/uploads/2022/08/10104211/PANINI-MAKER-SANDWICH-PRESS-METAL-TOP-RM307_1.jpg, https://cdn.doros.wedding/wp-content/uploads/2022/08/10104217/PANINI-MAKER-SANDWICH-PRESS-METAL-TOP-RM307_4.jpg",
-      "Regular Price": 4447
+      "Regular Price": 4447,
+      "id": "daac"
     },
     {
       "ID": 71,
@@ -566,7 +636,8 @@
       "Name": "Philips Daily Collection Coffee maker HD7432/20",
       " Description": "Philips Daily Collection Coffee maker,Simply delicious coffee\r\nWith aroma twister for the best taste experience\r\nWith glass jug\r\nCompact design (0.6 L)\r\nBlack\r\nAuto shut-off after 30 min. for energy-saving and safety reasons\r\n30 minutes after brewing your coffee, the coffee maker switches off automatically to save energy and for safety. This is in accordance with EU regulations, which apply to all coffee makers in the EU. If you want your coffee to stay hot longer, Philips offers coffee makers with a thermal jug.\r\n\r\nAroma twister circulates the coffee for optimal taste\r\nThis smart nozzle inside the jug circulates the inflowing coffee evenly through the jug for an optimal and consistent aroma, from the first to the last cup.\r\n\r\nDrip stop to pour a cup of coffee whenever you like\r\nThe drip stop allows you to pour a cup of coffee before the full brewing cycle is finished.\r\n\r\nLED power switch lights up when the coffee maker is switched\r\nThe red light on the switch button illuminates when the coffee maker is switched on. Dishwasher proof parts for easy cleaning\r\nThe jug and filter holder can be easily cleaned in the dishwasher.\r\n\r\nCompact design perfect for 2-7 cups\r\nThis coffee maker is specially designed for brewing 2 to 7 cups of coffee (maximum 0.6 litres). Thanks to its very compact design, this coffee maker takes up little space in your kitchen.\r\n\r\nWater level indication for easy filling\r\nFill the water tank easily and precisely with the water level indication.",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10104354/Philips-Daily-Collection-Coffee-maker-HD743220_2.jpg",
-      "Regular Price": 8745
+      "Regular Price": 8745,
+      "id": "1cd2"
     },
     {
       "ID": 72,
@@ -574,7 +645,8 @@
       "Name": "\r\nSilver & Black Cordless Stainless Steel Electric Kettle\r\n",
       " Description": "Boils water fast saving you time\r\nLarge 1.8 Litre capacity\r\nBuilt-in boil-dry and overheating protection\r\nSwitches itself off once water boils\r\nCordless and portable\r\nDurable food-grade stainless steel\r\nComfortable handle.\r\nLarge mouth making it easy to clean",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10104411/Silver-Black-Cordless-Stainless-Steel-Electric-Kettle.jpg",
-      "Regular Price": 993
+      "Regular Price": 993,
+      "id": "97d8"
     },
     {
       "ID": 73,
@@ -582,7 +654,8 @@
       "Name": "Rice Cooker NUNIX",
       " Description": "Rice cooker,1.8 Litres at the best price",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10104443/Rice-cooker-NUNIX.jpg",
-      "Regular Price": 4077
+      "Regular Price": 4077,
+      "id": "7111"
     },
     {
       "ID": 74,
@@ -590,7 +663,8 @@
       "Name": "Rice Cooker + Steamer 1.8 Liters White - RM/397",
       " Description": "700 watts\r\nCook & Keep warm functions\r\n1.8 litre capacity\r\nAutomatic cooking and keep warm function\r\nFashionable & elegant design\r\nSingle switch operation",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10104520/RICE-COOKER-RM397.jpg",
-      "Regular Price": 5460
+      "Regular Price": 5460,
+      "id": "046d"
     },
     {
       "ID": 75,
@@ -598,7 +672,8 @@
       "Name": "Panasonic SR-GA321WNB Rice Cooker, Aluminium Pan - 3.2L",
       " Description": "Power -1025W\r\n3.2L Capacity-17 CUPS\r\n5 Hours Keep Warm Function\r\nAluminum Inner Pan\r\nStainless Steel Lid, Cooking Plate\r\nInner Pan-Anodized Aluminum\r\nKeep Warm-5 Hours\r\nAccessories Cooking Plate: Yes\r\nRice Scoop Yes - Deluxe\r\nMeasuring Cup - Yes\r\nSteam Plate - No\r\nSteam Basket - No",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10104552/Panasonic-SR-GA321WNB-Rice-Cooker-Aluminium-Pan-3.2L.jpg",
-      "Regular Price": 13050
+      "Regular Price": 13050,
+      "id": "b0c6"
     },
     {
       "ID": 76,
@@ -606,7 +681,8 @@
       "Name": "Von VSRM18MGX Rice Cooker Silver 1.8L",
       " Description": "Power: 700W\r\n10 Cups Rice Capacity\r\n1.8L Bowl Capacity\r\nSteamer Basket\r\nGlass Lid to observe the cooking process\r\nNon-stick stainless steel removable pot for easy cleaning\r\nCooking and keep warm mode indicator lights\r\nSteam cooking for your rice, fish and vegetables at the same time\r\nAutomatically switches to keep warm mode once cooking is complete",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/09090342/Von-VSRM18MGX-Rice-Cooker-Silver-1.8L.jpg",
-      "Regular Price": 6995
+      "Regular Price": 6995,
+      "id": "f76d"
     },
     {
       "ID": 77,
@@ -614,7 +690,8 @@
       "Name": "Kenwood RCM45.000SS Rice Cooker - 1.8L",
       " Description": "Power: 700W\r\n10 Cups Rice Capacity\r\n1.8L Bowl Capacity\r\nSteamer Basket\r\nGlass Lid to observe the cooking process\r\nNon-stick stainless steel removable pot for easy cleaning\r\nCooking and keep warm mode indicator lights\r\nSteam cooking for your rice, fish and vegetables at the same time\r\nAutomatically switches to keep warm mode once cooking is complete",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10104559/Kenwood-RCM45.000SS-Rice-Cooker-1.8L.jpg",
-      "Regular Price": 6995
+      "Regular Price": 6995,
+      "id": "9fa7"
     },
     {
       "ID": 78,
@@ -622,7 +699,8 @@
       "Name": "Rice Cooker + Steamer 3.6 Liters White- RM336",
       " Description": "1500 watts\r\n3.6 litre capacity\r\nCook, Reheat, Steam, Keep warm functions\r\nThermal fuse to protect unit from burnout\r\nDelicious rice at the touch of switch\r\nThermostat for precision control",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10104633/RICE-COOKERSTEAMER-3.6-LITERS-WHITE-RM336.jpg",
-      "Regular Price": 6834
+      "Regular Price": 6834,
+      "id": "0249"
     },
     {
       "ID": 79,
@@ -630,7 +708,8 @@
       "Name": "Rice Cooker + Steamer 1.8 Liters White- RM/289",
       " Description": "• 700 watts\r\n• 1.8 litres capacity\r\n• Cook & Keep Warm functions",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10104630/RICE-COOKERSTEAMER-1.8-LITERS-WHITE-RM289.jpg",
-      "Regular Price": 5202
+      "Regular Price": 5202,
+      "id": "87ca"
     },
     {
       "ID": 80,
@@ -638,7 +717,8 @@
       "Name": "Multifunctional Microwave Oven Rack/Stand Telescopic Kitchen Racks Seasoning Bottle Storage Rack Home Storage & Organization",
       " Description": "High quality modern microwave stand\r\nIts adjustable\r\nDurable\r\nRust free\r\nEasy to clean and install\r\n",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/07130921/Multifunctional-Microwave-Oven-Rack-Stand-Telescopic-Kitchen-Racks-Seasoning-Bottle-Storage-Rack-Home-Storage-Organization.jpg",
-      "Regular Price": 5508
+      "Regular Price": 5508,
+      "id": "2f7c"
     },
     {
       "ID": 81,
@@ -646,7 +726,8 @@
       "Name": "Microwave Oven, 20L, White",
       " Description": "Output: 700W.\r\nCapacity: 20 Litres.\r\nColor: White.\r\nVoltage: AC 230-240V/50Hz.\r\nManual Control.\r\n5 Power Level.\r\nDefrost Function.\r\n35 Minutes Timer.\r\nDurable Glass Door With Handle.",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10104837/Microwave-Oven-20L-Black.jpg",
-      "Regular Price": 9684
+      "Regular Price": 9684,
+      "id": "c5ea"
     },
     {
       "ID": 82,
@@ -654,7 +735,8 @@
       "Name": "MIKA Microwave Oven, 20L, Silver MMWMSKH2013S(MMW2012/S)",
       " Description": "Output: 700W.\r\nCapacity: 20 Litres.\r\nVoltage: AC 230-240V/50Hz.\r\nManual Control.\r\n5 Power Level.\r\nDefrost Function.\r\n35 Minutes Timer.\r\nDurable Glass Door With Handle.\r\nColor: Silver.\r\nWarranty: 2 Years",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10104841/MIKA-Microwave-Oven-20L-Silver-MMWMSKH2013SMMW2012S.jpg",
-      "Regular Price": 10291
+      "Regular Price": 10291,
+      "id": "96fb"
     },
     {
       "ID": 83,
@@ -662,7 +744,8 @@
       "Name": "Von VAMS-20DGX Microwave Oven Solo, 20L – Black",
       " Description": "Digital control\r\nTouch control panel\r\nMemory cooking (a combination of different programs)\r\nMultistage cooking\r\n6 auto cook menus\r\n700W\r\nH: 243, W: 446, D: 360",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/09090328/Von-VAMS-20DGX-Microwave-Oven-Solo-20L-%E2%80%93-Black.jpg",
-      "Regular Price": 11095
+      "Regular Price": 11095,
+      "id": "f5e5"
     },
     {
       "ID": 84,
@@ -670,7 +753,8 @@
       "Name": "Samsung MG23K3515AK Microwave Oven Grill, 23L, Digital - Black",
       " Description": "Digital control\r\nAuto cook menu\r\nKeep warm function\r\nCeramic interior\r\n5 cooking programs\r\n1100W\r\nH: 275, W: 489, D: 392",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10104913/Samsung-MG23K3515AK-Microwave-Oven-Grill-23L-Digital-Black.jpg",
-      "Regular Price": 19995
+      "Regular Price": 19995,
+      "id": "4168"
     },
     {
       "ID": 85,
@@ -678,7 +762,8 @@
       "Name": "Von VAMS-20MGX Microwave Oven Solo 20L – Black",
       " Description": "Mechanical control\r\n8 power levels\r\nGlass front panel\r\nGrey interior cavity\r\nNormal cooking programs (power and time setting)\r\n700W\r\nH: 262, W: 446, D: 360",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/09090331/Von-VAMS-20MGX-Microwave-Oven-Solo-20L-%E2%80%93-Black.jpg",
-      "Regular Price": 10495
+      "Regular Price": 10495,
+      "id": "c9ef"
     },
     {
       "ID": 86,
@@ -686,7 +771,8 @@
       "Name": "LG MS2042DB Microwave Oven 20L - Black",
       " Description": "20L Solo microwave\r\n16 Auto cook menus\r\n4 continental menus (couscous, jollof rice, fufu, mealie pep)\r\n4 Arabic menus (grape leaf, saffron rice, kabsa, rice pudding)\r\n4 European menus (spaghetti Bolognese, spaghetti carbonara, stuffed tomato, ratatouille)\r\nOriental menus (chicken curry, dolma, vegetable biryani, idli)\r\n5 Power levels\r\nTwo-stage cooking\r\nQuickstart option\r\nAuto defrost (meat, poultry, fish, bread)\r\nEnergy-saving mode (eco mode)\r\nBlack finish",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10105013/LG-MS2042DB-Microwave-Oven-20L-Black.jpg",
-      "Regular Price": 15995
+      "Regular Price": 15995,
+      "id": "dc98"
     },
     {
       "ID": 87,
@@ -694,7 +780,8 @@
       "Name": "23LITRES DIGITAL MICROWAVE + GRILL SILVER - RM589",
       " Description": "Features\r\n•23 litre capacity\r\n•LED display + touchpad\r\n•800w microwave, 1000w grill\r\n•Black with silver finish\r\n•Clock display function",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10105010/23LITRES-DIGITAL-MICROWAVE-GRILL-SILVER-RM589-1.jpg",
-      "Regular Price": 14280
+      "Regular Price": 14280,
+      "id": "394c"
     },
     {
       "ID": 88,
@@ -702,7 +789,8 @@
       "Name": "Kenwood  Microwave Oven Solo 22L",
       " Description": "22L Solo microwave\r\n700W\r\nLED digital display\r\n5 power levels\r\n8 auto cook menus\r\nWeight and time defrost\r\nPre-set option\r\nClock function\r\nStainless steel finish and handle",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10105006/Kenwood-MWM22-Microwave-Oven-Solo-22L.jpg",
-      "Regular Price": 14274
+      "Regular Price": 14274,
+      "id": "9c02"
     },
     {
       "ID": 89,
@@ -710,7 +798,8 @@
       "Name": "LG MH6336GIB Microwave Oven Grill Neochef 23L Black",
       " Description": "Digital control\r\nSmart inverter magnetron (10-year warranty)\r\nQuartz grill\r\nYoghurt program\r\n16 auto cook programs (recipes & cooking instructions provided)\r\n1200W\r\nH: 272, W: 476, D: 387",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10105019/LG-MH6336GIB-Microwave-Oven-Grill-Neochef-23L-Black.jpg",
-      "Regular Price": 22995
+      "Regular Price": 22995,
+      "id": "4cd5"
     },
     {
       "ID": 90,
@@ -718,7 +807,8 @@
       "Name": "Nutricook NC-SAFO30 Air Fryer Oven, 30L - 1800W",
       " Description": "Hot Convection Oven, Toast, Bake, Pizza, Rotisserie, Food Dehydrator and Keep Warm, Nonstick Interior and Brushed Stainless Steel, 1800 Watts\r\n360-degree heat circulation, 2-speed fan, and 5 smart heating elements, food could get applicable power from programmable elements\r\nAccessories included - Crumb tray, fry basket, food tray, wire rack, rotisserie fork set, and rotisserie handle\r\nSleek brushed stainless steel appearance, solid nonstick interior, and high-quality glass door, the appliance could be clean up with a moist mop; removable crumb tray helps avoid stains and other buildups\r\n12 Unique settings let you enjoy convenient meals without limiting your options. Cycle through a wide variety of food types and functions with the knob controls",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10105126/Nutricook-NC-SAFO30-Air-Fryer-Oven-30L-1800W.jpg",
-      "Regular Price": 25494
+      "Regular Price": 25494,
+      "id": "e644"
     },
     {
       "ID": 91,
@@ -726,7 +816,8 @@
       "Name": "Sokany Air Fryer",
       " Description": "With this air fryer you caneat healthier without giving upthe taste and texture of your favorite foods. This particular air fryer features unique rapid air technology that circulates hot air with speed and precision for faster cooking and perfect results with less oil.\r\nAn adjustable temperature control up to 390 degrees lets you fry, bake, roast and grill a variety of foods. The safe lock system will never release the basket that ensures accuracy and consistent results.The removable drawer is easy to clean and never leave any residue.All parts of air fryer are dishwasher safe for a breeze cleanup. The easy features makes it easy to use and manually adjustable temperature control sytem allows you to set the best cooking time to prepare your food. This healthier fryer gives healthy food with up to 75% less fat and unique and original design of fryer working fast gives you the best\r\nOrder this item from sky garden and it will be delivered at your doorstep.",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/07131130/Sokany-Air-Fryer.jpg",
-      "Regular Price": 9804
+      "Regular Price": 9804,
+      "id": "2bd4"
     },
     {
       "ID": 92,
@@ -734,7 +825,8 @@
       "Name": "Salter EK4548 Dual Cook Pro Air Fryer\r\n",
       " Description": "Salter EK4548 Dual Cook Pro Air Fryer, Double Drawer Non-Stick Cooking, Sync & Match Cook Function, 2 XL Frying Trays For Independent Cooking, 8.2L, Sensor Touch Display With 12 Presets, 1450-1750W\r\nWith a duo basket design, this 8.2L fryer has two 4.1L independent frying trays, ideal for cooking different foods or double portions.\r\nThe adjustable temperature and 60 minute timer gives you control over each compartment allowing you to cook different foods together.\r\nThe sync and match cook functions allow both compartments to be ready at the same time with a temperature pause and resume function.\r\nA healthy alternative to deep-frying, the Dual Cook Pro requires little to no oil, keeping the same great taste for all the family.\r\nA cooking chart and selection of recipes is included to cook a variety of meats, fish, vegetables, desserts and even dehydrate fruit.",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/07131049/Salter-EK4548-Dual-Cook-Pro-Air-Fryer.jpg",
-      "Regular Price": 26559
+      "Regular Price": 26559,
+      "id": "1538"
     },
     {
       "ID": 93,
@@ -742,7 +834,8 @@
       "Name": "Air Fryer, 2.2 Ltrs, White & Purple",
       " Description": "Air Fry, Air Bake, Air Grill, Air Roast and more, Cook with little or no oil! Your wish comes true- Cook Healthy, Eat Healthy, Live Healthy!\r\nIt is Portable – Easy to carry, small in size- easy to store.\r\nEasy to use. Easy to clean up. In a white & purple.\r\nWarranty: 2 Years",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08100711/Air-Fryer-2.2-Ltrs-White-Purple.jpg",
-      "Regular Price": 10194
+      "Regular Price": 10194,
+      "id": "4b50"
     },
     {
       "ID": 94,
@@ -750,7 +843,8 @@
       "Name": "Von VSYA55MTX Air Fryer 5.5L",
       " Description": "Von 5.5L basket\r\n1700 watts\r\nNon-stick coating\r\nAdjustable thermostat\r\nEasily removable frying pan\r\n3-4 mins to max temperature\r\nOverheat protection\r\nTimer – 30mins\r\nCool touch body\r\nHigh-speed air circulation technology\r\nUp to 80% less fat\r\nTime & Temperature control\r\nNon-stick Detachable drawer & food basket",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10105430/Von-VSYA55MTX-Air-Fryer-5.5L.jpg",
-      "Regular Price": 14529
+      "Regular Price": 14529,
+      "id": "faa3"
     },
     {
       "ID": 95,
@@ -758,7 +852,8 @@
       "Name": "Von VSYA55MTX Air Fryer 3.5L",
       " Description": "Von 5.5L basket\r\n1700 watts\r\nNon-stick coating\r\nAdjustable thermostat\r\nEasily removable frying pan\r\n3-4 mins to max temperature\r\nOverheat protection\r\nTimer – 30mins\r\nCool touch body\r\nHigh-speed air circulation technology\r\nUp to 80% less fat\r\nTime & Temperature control\r\nNon-stick Detachable drawer & food basket",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10105430/Von-VSYA55MTX-Air-Fryer-5.5L.jpg",
-      "Regular Price": 14524
+      "Regular Price": 14524,
+      "id": "8890"
     },
     {
       "ID": 96,
@@ -766,7 +861,8 @@
       "Name": "Nutricook NC-AF204 Air Fryer 2, 3.6L",
       " Description": "Smart Temp' Technology with 'Shake Reminder'\r\n10 one-touch preset menus - Fries, Chicken, Burger, Sausage, Samosa, Steak, Fish, Pizza, Broccoli & Cake\r\nPre-heat function\r\nNon-stick coating\r\nDishwasher safe parts\r\nStainless steel body\r\nCool-touch handle",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10105441/Nutricook-NC-AF204-Air-Fryer-2-3.6L.jpg",
-      "Regular Price": 15995
+      "Regular Price": 15995,
+      "id": "9efb"
     },
     {
       "ID": 97,
@@ -774,7 +870,8 @@
       "Name": "Automatic Rechargeable Water Dispenser",
       " Description": "Automatic Rechargeable Water Dispenser",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10105503/Automatic-Rechargeable-Water-Dispenser-1.jpg",
-      "Regular Price": 659
+      "Regular Price": 659,
+      "id": "ddd8"
     },
     {
       "ID": 98,
@@ -782,7 +879,8 @@
       "Name": "VON VADZ0002K Portable Water Dispenser",
       " Description": "Product Features\r\n4W, 5V, 1200mAh\r\nTouch button\r\nRechargeable battery\r\nA single charge lasts up to a minimum of 100L\r\nLED Indicators for USB Charging\r\nCharging Cable & Silicone Pipe are Included\r\nNo installation required\r\nCompact size and lightweight\r\nGross weight: 0.27kgs Net weight: 0.23kgs\r\nDimensions 135 x 70 x 140 mm\r\nWarranty: 12 months",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/09090324/VON-VADZ0002K-Portable-Water-Dispenser.jpg",
-      "Regular Price": 1316
+      "Regular Price": 1316,
+      "id": "3bf6"
     },
     {
       "ID": 99,
@@ -790,7 +888,8 @@
       "Name": "Von VADA2210S Water Dispenser Electric Cooling - Silver & Black",
       " Description": "Hot & Cold Electronic Cooling\r\nWith FreshCabinet\r\nMetallic Silver colour\r\nBlack Drip Tray & area Near The Indicator lights",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10105559/Von-VADA2210S-Water-Dispenser-Electric-Cooling-Silver-Black.png",
-      "Regular Price": 16824
+      "Regular Price": 16824,
+      "id": "2ea0"
     },
     {
       "ID": 100,
@@ -798,7 +897,8 @@
       "Name": "Forbes Nectar 1500 Litres Water Purifier- RM/313",
       " Description": "20 litres capacity\r\n• 435x565x405 mm\r\n• Catridge replacement after 1500 litres\r\n• 3 stage purification",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10105606/FORBES-NECTAR-1500-LITRES-WATER-PURIFIER-RM313.jpg",
-      "Regular Price": 8670
+      "Regular Price": 8670,
+      "id": "d7cb"
     },
     {
       "ID": 101,
@@ -806,7 +906,8 @@
       "Name": "Von VADM1100W Tabletop Water Dispenser Hot and Normal - White",
       " Description": "Hot & Normal\r\nHeating Capacity – 500W (5L/hr)\r\nHot & Room Temp. water\r\n2 Taps\r\nWhite\r\n220 - 240V\r\n50 Hz\r\n275 (W) x 290 (D) x 388 (H) mm",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10105609/Von-VADM1100W-Tabletop-Water-Dispenser-Hot-and-Normal-White.png",
-      "Regular Price": 4584
+      "Regular Price": 4584,
+      "id": "7060"
     },
     {
       "ID": 102,
@@ -814,7 +915,8 @@
       "Name": "MIKA MWDB2902/BLS Water Dispenser,Floor Standing, With Sensor Taps , Botttom Load, Black & Dark SS",
       " Description": "Touch Free You do not have to touch the appliance to dispense water, it is completely hygienic and safe to use.\r\nBottom Loading:\r\nEasy on your back as there is no lifting required for the heavy water bottle\r\nWater bottle is concealed inside hence looks very neat and clean.\r\nHigh-efficiency Compressor Cooling\r\nHot & Cold Water Function\r\nTotal Power 660W\r\nHeating Capacity 5 L/h\r\nCooling Capacity 2.5 L/h\r\nHot Tank Capacity 1 L\r\nCold Tank Capacity 3.2 L\r\nChild Safety Lock for hot water\r\nUnique LED Light Indicators\r\nHot & Cold Water Power Switch\r\nPower Protection Fuse\r\nStainless Steel Hot Water Tank\r\nColor: Black & Siver\r\n\r\nWarranty:2 Years on compressor\r\n\r\n1 Year on product\r\n",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10105705/MIKA-MWDB2902_BLS-Water-DispenserFloor-Standing-With-Sensor-Taps-Botttom-Load-Black-Dark-SS.jpg",
-      "Regular Price": 29698
+      "Regular Price": 29698,
+      "id": "92ea"
     },
     {
       "ID": 103,
@@ -822,7 +924,8 @@
       "Name": "Panasonic SDM-WD3438BG Bottom Loading Water Dispenser Compressor Cooling - Black & Staineless Steel",
       " Description": "Hot Cold & Normal Water options\r\nSleek Bottom loading design\r\nChild safety lock\r\nOverheat protection\r\nAnti-fingerprint stainless steel door for cabinet\r\nStainless steel tank\r\nFinish: Black & Stainless Steel\r\nUnit Dimension: 310 (W) x 360 [D] x 1040 [H] mm\r\n1-year warranty (2 years on compressor)",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10105603/Panasonic-SDM-WD3438BG-Bottom-Loading-Water-Dispenser-Compressor-Cooling-Black-Staineless-Steel.jpg",
-      "Regular Price": 40794
+      "Regular Price": 40794,
+      "id": "9cf9"
     },
     {
       "ID": 104,
@@ -830,7 +933,91 @@
       "Name": "HOT AND NORMAL FREE STANDING WATER DISPENSER- RM/417",
       " Description": "500 watts\r\n• Extra storage compartment\r\n• Tap dispenser\r\n• Electricity leakage protection",
       "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10105709/HOT-AND-NORMAL-FREE-STANDING-WATER-DISPENSER-RM417.jpg",
-      "Regular Price": 10200
+      "Regular Price": 10200,
+      "id": "e7c9"
+    },
+    {
+      "id": "3b44",
+      "ID": "",
+      "Categories": "Blender",
+      "Name": "Blendr",
+      "Description": "blender",
+      "Image Link": "image",
+      "Regular Price": "2000"
+    }
+  ],
+  "categories": [
+    {
+      "ID": 1,
+      "name": "Kitchen Essentials",
+      "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/07130921/Multifunctional-Microwave-Oven-Rack-Stand-Telescopic-Kitchen-Racks-Seasoning-Bottle-Storage-Rack-Home-Storage-Organization.jpg",
+      "id": "fb53"
+    },
+    {
+      "ID": 2,
+      "name": "Cleaning & Organisation",
+      "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093818/Screenshot-2022-08-25-153733.jpg",
+      "id": "34d5"
+    },
+    {
+      "ID": 3,
+      "name": "Home Decor",
+      "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093747/Screenshot-2022-08-25-151912.jpg",
+      "id": "9f03"
+    },
+    {
+      "ID": 4,
+      "name": "Furniture",
+      "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08093801/Screenshot-2022-08-25-152224.jpg",
+      "id": "572a"
+    },
+    {
+      "ID": 5,
+      "name": "Blender",
+      "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10101627/Signature-Electric-chopper-SG-C01.jpg",
+      "id": "4e6c"
+    },
+    {
+      "ID": 6,
+      "name": "Hand mixer",
+      "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10102740/Hand-Mixer-With-Stand-Milky-White-Sliver.jpg",
+      "id": "d942"
+    },
+    {
+      "ID": 7,
+      "name": "Toaster",
+      "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/08100623/2-Slice-Toaster-MTS2205.jpg",
+      "id": "7959"
+    },
+    {
+      "ID": 8,
+      "name": "Coffee maker",
+      "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10104411/Silver-Black-Cordless-Stainless-Steel-Electric-Kettle.jpg",
+      "id": "f389"
+    },
+    {
+      "ID": 9,
+      "name": "Rice cooker",
+      "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10104520/RICE-COOKER-RM397.jpg",
+      "id": "f88b"
+    },
+    {
+      "ID": 10,
+      "name": "Microwave",
+      "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10105010/23LITRES-DIGITAL-MICROWAVE-GRILL-SILVER-RM589-1.jpg",
+      "id": "e9eb"
+    },
+    {
+      "ID": 11,
+      "name": "Air Fryer",
+      "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10105430/Von-VSYA55MTX-Air-Fryer-5.5L.jpg",
+      "id": "cb05"
+    },
+    {
+      "ID": 12,
+      "name": "Water Dispenser",
+      "Image Link": "https://cdn.doros.wedding/wp-content/uploads/2022/08/10105709/HOT-AND-NORMAL-FREE-STANDING-WATER-DISPENSER-RM417.jpg",
+      "id": "d1df"
     }
   ]
 }

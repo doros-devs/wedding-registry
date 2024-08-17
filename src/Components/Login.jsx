@@ -13,8 +13,6 @@ function Login() {
     setFormData({ ...formData, [e.target.name]: e.target.value });
   };
 
-  console.log("user is ", user);
-
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {

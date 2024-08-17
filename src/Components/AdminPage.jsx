@@ -19,15 +19,7 @@ function AdminPage() {
     fetch(`${serverUrl}/products`)
       .then((res) => res.json())
       .then((data) => {
-        const cleanedData = data.map((product) => {
-          let cleanedProduct = {};
-          for (let key in product) {
-            const cleanedKey = key.trim(); // Remove leading/trailing spaces from keys
-            cleanedProduct[cleanedKey] = product[key];
-          }
-          return cleanedProduct;
-        });
-        setProducts(cleanedData);
+        setProducts(data);
       });
   }, [serverUrl]);
 
@@ -117,51 +109,47 @@ function AdminPage() {
       <h2 className="text-2xl font-bold mb-4">Admin Panel</h2>
       <button
         onClick={openAddModal}
-        className="bg-blue-500 text-white py-2 px-4 rounded mb-4"
+        className="bg-doroscolor text-white py-2 px-4 rounded mb-4"
       >
         Add New Product
       </button>
-      <div className="overflow-x-auto">
-        <table className="min-w-full bg-white border-collapse">
-          <thead>
-            <tr>
-              <th className="px-4 py-2 border">ID</th>
-              <th className="px-4 py-2 border">Name</th>
-              <th className="px-4 py-2 border">Category</th>
-              <th className="px-4 py-2 border">Description</th>
-              <th className="px-4 py-2 border">Price</th>
-              <th className="px-4 py-2 border">Actions</th>
+      <table className="min-w-full bg-white">
+        <thead>
+          <tr>
+            <th className="px-4 py-2">ID</th>
+            <th className="px-4 py-2">Name</th>
+            <th className="px-4 py-2">Category</th>
+            <th className="px-4 py-2">Price</th>
+            <th className="px-4 py-2">Actions</th>
+          </tr>
+        </thead>
+        <tbody>
+          {products.map((product) => (
+            <tr key={product.ID}>
+              <td className="border px-4 py-2">{product.ID}</td>
+              <td className="border px-4 py-2">{product.Name}</td>
+              <td className="border px-4 py-2">{product.Categories}</td>
+              <td className="border px-4 py-2">
+                KSh {product["Regular Price"].toLocaleString()}
+              </td>
+              <td className="border px-4 py-2 flex space-x-4">
+                <button
+                  onClick={() => handleEditProduct(product)}
+                  className="bg-yellow-500 text-white py-1 px-4 rounded"
+                >
+                  Edit
+                </button>
+                <button
+                  onClick={() => handleDeleteProduct(product.ID)}
+                  className="bg-red-500 text-white py-1 px-4 rounded"
+                >
+                  Delete
+                </button>
+              </td>
             </tr>
-          </thead>
-          <tbody>
-            {products.map((product) => (
-              <tr key={product.ID}>
-                <td className="border px-4 py-2">{product.ID}</td>
-                <td className="border px-4 py-2">{product.Name}</td>
-                <td className="border px-4 py-2">{product.Categories}</td>
-                <td className="border px-4 py-2">{product.Description}</td>
-                <td className="border px-4 py-2">
-                  KSh {product["Regular Price"].toLocaleString()}
-                </td>
-                <td className="border px-4 py-2 flex space-x-4">
-                  <button
-                    onClick={() => handleEditProduct(product)}
-                    className="bg-yellow-500 text-white py-1 px-4 rounded"
-                  >
-                    Edit
-                  </button>
-                  <button
-                    onClick={() => handleDeleteProduct(product.ID)}
-                    className="bg-red-500 text-white py-1 px-4 rounded"
-                  >
-                    Delete
-                  </button>
-                </td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      </div>
+          ))}
+        </tbody>
+      </table>
 
       <Modal isOpen={isModalOpen} onClose={closeModal}>
         <h2 className="text-xl font-bold mb-4">
@@ -224,7 +212,7 @@ function AdminPage() {
           </div>
           <button
             type="submit"
-            className="bg-blue-500 text-white py-2 px-4 rounded"
+            className="bg-doroscolor text-white py-2 px-4 rounded"
           >
             {isEditing ? "Update Product" : "Add Product"}
           </button>

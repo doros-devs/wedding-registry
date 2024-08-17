@@ -8,8 +8,6 @@ function ProductDetailPage() {
   const { productId } = useParams();
   const [product, setProduct] = useState(null);
   const { addToRegistry } = useContext(RegistryContext);
-  const serverUrl = import.meta.env.VITE_DB_JSON_SERVER;
-  
 
   useEffect(() => {
     fetch(`${serverUrl}/products/${productId}`)
@@ -44,7 +42,7 @@ function ProductDetailPage() {
             </p>
             <button
               onClick={handleAddToRegistry}
-              className="mt-4 bg-blue-500 text-white py-2 px-4 rounded"
+              className="mt-4 bg-doroscolor text-white py-2 px-4 rounded"
             >
               Add to Registry
             </button>

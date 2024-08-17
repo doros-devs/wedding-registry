@@ -41,7 +41,7 @@ function Cart() {
                   <td className="border px-4 py-2 text-center">
                     <button
                       onClick={() => removeFromCart(item.ID)}
-                      className="text-red-500 hover:text-red-700"
+                      className="text-doroscolor hover:text-amber-800"
                     >
                       <AiFillDelete size={24} />
                     </button>
