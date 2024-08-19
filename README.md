@@ -139,3 +139,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 This README provides a general overview and instruction manual for your MyRegistry project. Be sure to customize it further based on the specific details and nuances of your project!
+
+Blog: https://dev.to/dorosdevs/building-a-wedding-registry-platform-a-journey-through-the-development-process-26di
